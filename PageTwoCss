@@ -1,0 +1,68 @@
+
+header {
+	font-size: 100px;
+	text-align: center;
+	color: rgb(56, 12, 41);
+	
+}
+
+
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+
+body {
+	font-size: 35px;
+}
+p {
+	font-size: 100px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+html,
+body {
+	height: 90%;
+	
+}
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+.content {
+	flex: 1 0 auto;
+}
+.footer {
+	flex: 0 0 auto;
+	text-align: center;
+	font-size: 40px;
+	background-color: rgb(255, 0, 76)
+}
+
+
+
+h2 {
+	text-align: center
+
+}
+
+
+
+
+
+
+
+ 
+aside {
+	text-align: center
+}
+
+
+
+
+html {
+	background-image: url(ob.jpg)
+}
